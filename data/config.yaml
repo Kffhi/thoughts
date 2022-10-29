@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: kffhi
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,16 +11,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/kffhi/thoughts/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  一些碎碎念和文档记录
 page_title:
-  "🪴 Quartz 3.3"
+  "💭 Kffhi's Thoughts"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/kffhi
